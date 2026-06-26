@@ -13,7 +13,7 @@
     "gsap": "^3.12.5",
     "lenis": "^1.0.45"
   },
-  "devDependencies": {
+  "Dependencies": {
     "vite": "^5.0.12"
   }
 }
